@@ -11,6 +11,7 @@ const courses = [
     {id:1, name: 'Pebble Beach'},
     {id:2, name: 'Spyglass Hill'},
     {id:3, name: 'Torrey Pines'},
+    {id:4, name: 'Älmhults GK'},
 ];
 
 // What to show on /
